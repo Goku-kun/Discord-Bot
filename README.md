@@ -14,5 +14,7 @@ The functionality it serves right now is providing encouragement to the members 
 | $respond true  | to allow the bot to respond to sad messages with inspiration    |
 | $respond false | to disallow the bot to respond to sad messages with inspiration |
 | $ajia          | to randomly quote an Ajia Bunker Club member                    |
+| $logo   | logo of the club will be shared on the channel          |
+| $mascot | photo of the club mascot shall be shared on the channel |
 
 ### ... -- More Features are coming soon! -- ...
